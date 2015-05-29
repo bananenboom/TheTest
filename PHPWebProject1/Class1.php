@@ -8,7 +8,7 @@
  * @version 1.0
  * @author Peter
  */
-class Class1
+class Class2
 {
     function Hello()
     {
